@@ -58,15 +58,11 @@ The dataset used is the UCI Heart Disease dataset, which contains 920 entries wi
    ```bash
    git clone <repository-url>
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter notebook:
+2. Open the Jupyter notebook:
    ```bash
    jupyter notebook HeartDiseasePrediction.ipynb
    ```
-4. Execute the cells sequentially to reproduce the analysis and model.
+3. Execute the cells sequentially to reproduce the analysis and model.
 
 ## Future Work
 - Experiment with other machine learning models (e.g., logistic regression, random forests, SVM).
